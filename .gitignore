@@ -1,3 +1,9 @@
+# FILES NOT TO INCLUDE FROM PLANET MODELS
+*.mko
+*.tex
+*.xlsx
+*.pickle
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
