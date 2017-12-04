@@ -3,6 +3,7 @@
 *.tex
 *.xlsx
 *.pickle
+/PlanetModels/BurrowsSpiegel.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
